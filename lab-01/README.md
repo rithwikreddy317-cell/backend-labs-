@@ -1,9 +1,8 @@
 # Lab 1: Node.js and Express server
 
-**Name:** Your Name · **Registration number:** Your Reg No · **Section:** Your Section
+**Name:** k.rithwik reddy· **Registration number:** 252U1R9059 · **Section:** CSE GEN AI 2A 304
 
-**Live link:** Not deployed yet (paste your public URL here, or explain why it could not be deployed and add Postman screenshots of every endpoint)
-
+**Live link:** https://backend-labs-xy6t.onrender.com
 ## How to run
 
 ```bash
