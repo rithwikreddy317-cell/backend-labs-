@@ -41,9 +41,6 @@ Example body for POST and PUT:
 
 ## Screenshots
 
-Add your Postman screenshots and SQLite CLI comparisons to `screenshots/`, then uncomment these lines.
-
-<!--
 ![GET all books](screenshots/get-all.png)
 ![GET one book](screenshots/get-one.png)
 ![POST a book](screenshots/post.png)
@@ -51,7 +48,6 @@ Add your Postman screenshots and SQLite CLI comparisons to `screenshots/`, then 
 ![DELETE a book](screenshots/delete.png)
 ![404 for missing book](screenshots/not-found.png)
 ![SQLite CLI view](screenshots/db-view.png)
--->
 
 ## Viva answers
 
